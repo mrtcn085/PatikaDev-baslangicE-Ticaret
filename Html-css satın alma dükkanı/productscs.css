@@ -1,0 +1,51 @@
+.snap{
+    color:rgb(255, 43, 96);
+    margin-left: 800px;
+}
+.box{
+    float: right;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style:groove;
+}
+.about-us{
+    border-style: double;
+}
+
+
+.baslik{
+    color: rgb(113, 0, 206);
+    margin-left: 810px;
+    list-style-position: inside;
+}
+.main-menu{
+    margin-left: 750px;
+    border-style: double;
+    list-style-position: inside;
+}
+.products{
+    border-style: double;
+    list-style-position: inside;
+}
+
+.mscshp{
+    
+    margin-left: 750px;
+   
+}   
+.button{
+    border-style:double
+}
+
+a:hover {
+    color: #000000;
+  }
+  a:active {
+    color: #000000;
+  }
+  a:visited {
+    color: #000000;
+  }
+  a:link {
+    color: #000000;
+  }

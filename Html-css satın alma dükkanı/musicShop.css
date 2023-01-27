@@ -1,0 +1,57 @@
+.snap{
+    color:rgb(255, 43, 96);
+    margin-left: 800px;
+}
+
+
+.baslik{
+    color: rgb(113, 0, 206);
+    margin-left: 810px;
+    list-style-position: inside
+}
+.main-menu{
+    margin-left: 750px;
+    border-style: double;
+    list-style-position: inside
+}
+.products{
+    border-style: double;
+    list-style-position: inside
+}
+.about-us{
+    border-style: double;
+    list-style-position: inside
+}
+.giris{
+    margin-left: 500px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-position: inside
+}
+
+.orta-kisim{
+    margin-left: 710px;
+    color: rgb(255, 123, 0);
+    font-weight: bold;
+}
+.urunler{
+    margin-left: 710px;
+    list-style-position: inside;
+    font-weight: bold;
+}
+
+button{
+
+}
+a:hover {
+    color: #000000;
+  }
+  a:active {
+    color: #000000;
+  }
+  a:visited {
+    color: #000000;
+  }
+  a:link {
+    color: #000000;
+  }
